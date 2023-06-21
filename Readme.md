@@ -6,7 +6,12 @@
 
 2、使用方法：
 
+**npm i simple-schedule-calendar**
+
 ```
+
+import { SimpleScheduleCalendar } from 'simple-schedule-calendar/simple-schedule-calendar.common';
+import 'simple-schedule-calendar/simple-schedule-calendar.css';
 ...
 <SimpleScheduleCalendar
       ref="calendar"
